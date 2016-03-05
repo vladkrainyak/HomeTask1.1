@@ -1,1 +1,1 @@
-First homework of Source-IT Java Basic Course.
+First homework of Java Basic Course.
